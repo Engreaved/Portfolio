@@ -19,13 +19,13 @@
 # Blog Management for Magento, WordPress, Typo3 -based corporate websites.  
 # Presentation of the company cases for the general public: from article to the platform submission under a week. 
 # Content Plan Development & Realisation for corporate blogs on Crypto, PaaS, B2B, Media & Technology, P2E, Mining. 
-# Articles & Content for niche projects in Entertainment, FinTech, Exchange Services, Trading, Technical Analysis.
+# Content for niche projects in Entertainment, FinTech, Exchange Services, Trading.
 ```
 
 ### Social Network Content Management
 > "Outsource creativity and take care of social network posting schedule."
+*I'll take care of engaging text for posts, stories, channels, or social media accounts.*
 ```
-# I'll take care of engaging text for posts, stories, channels, or social media accounts. 
 # Discord, Facebook, Instagram, Twitter, Telegram account management.
 # You only need to provide ocassional photos if it's personal brand. Otherwise visuals are taken care of by me. 
 # Content Plan Development, under your supervision to ensure every detail is accounted for. 
@@ -37,8 +37,7 @@
 ```
 # Traffic Channel Research and Analysis: I'll launch a marketing campaign to ensure better conversion rate and lead generation. 
 # Target Audience Social Research: I'll what bothers your target audience and build Content Marketing around it.
-# Viewership Farming Launch: I'll help you to gain online traction trough web publications, article promotion, sales copy distribution.
-# Publication Services: I'll find what media can publish your articles and write high-converting copy to attract interest. 
+# Publication Services: I'll research what media we can use to gain traction for your project. 
 ```
 
 Thank you for reading!
