@@ -3,7 +3,7 @@
 
 **I offer the following services for any IT, Tech or Crypto-related product:**
 
-### Sales Copy
+### Sales Copy & Media Publications
 **Not gonna lie**: I can't make people buy a non-existant product, so we can create one together during a brainstorming session. 
 ```
 # Product Background Docs for sales department and further marketing copy submissions.  
@@ -39,7 +39,7 @@
 # Technical Structure Diagramm of project to develop it faster and with more time for bug revision & code optimisation.
 ```
 
-### Marketing
+### Content Marketing Services 
 **You need to gain some traction?**
 ```
 # Traffic Channel Research and Analysis: I'll launch a marketing campaign to ensure better conversion rate and lead generation. 
