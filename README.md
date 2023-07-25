@@ -4,10 +4,9 @@
 **I offer the following services for any IT, Tech or Crypto-related product:**
 
 ### Sales Copy
-**Not gonna lie - I can make people buy, yet product qualities are a key factor too.**
+**Not gonna lie**: I can't make people buy a non-existant product, so we can create one together during a brainstorming session. 
 ```
-# I can't make people buy a thing which dosen't exist, so we can create one together during a brainstorming session. 
-# In such cases we can create a product background for sales department and further marketing copy submissions.  
+# Product Background Docs for sales department and further marketing copy submissions.  
 # UI-Microcopy for website or app interface, ASO for Google Play or App Store project.
 # E-mail Sales Campaign top-to-bottom: topic, text, visual design, analysis & adjustment.
 # Landing Page from ground-up: page structure, links, TOS, FIGMA testing.
