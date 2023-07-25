@@ -1,5 +1,5 @@
 # Portfolio
-> My Portfolio for SEO, Creative; Tech & Crypto Copywriter. [Click to check my articles](https://docs.google.com/document/d/1K1UNxn9OglrEzyQz5nw66FPdOR7fe2XHfTiNsOv7fY8/edit#heading=h.362grsxt8ujx) 
+> My Portfolio for SEO, Creative; Tech & Crypto Copywriter. [Click to check my articles](https://docs.google.com/document/d/1K1UNxn9OglrEzyQz5nw66FPdOR7fe2XHfTiNsOv7fY8/edit#heading=h.362grsxt8ujx)
 
 **I offer the following services for any IT, Tech or Crypto-related product:**
 
@@ -32,13 +32,6 @@
 # Memes-on-demand, actually. Takes time for Target Audience research, boosts sales and/or user engagement in all known niches.
 ```
 
-### Technical Documentation 
-**For Sales, Developers, HR, Management, CEO's, BoD's.**
-```
-# Can take care of corporate presentation design for financial reports, project pitch. 
-# Technical Structure Diagramm of project to develop it faster and with more time for bug revision & code optimisation.
-```
-
 ### Content Marketing Services 
 **You need to gain some traction?**
 ```
@@ -47,3 +40,5 @@
 # Viewership Farming Launch: I'll help you to gain online traction trough web publications, article promotion, sales copy distribution.
 # Publication Services: I'll find what media can publish your articles and write high-converting copy to attract interest. 
 ```
+
+Thank you for reading!
