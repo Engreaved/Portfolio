@@ -18,8 +18,8 @@
 ```
 # Blog Management for Magento, WordPress, Typo3 -based corporate websites.  
 # Presentation of the company cases for the general public: from article to the platform submission under a week. 
-# Content-Plan development for corporate blogs about Crypto, PaaS, B2B, Media & Technology, Social & Niche Topics. 
-# Individual content plan development for niche projects in Entertainment, FinTech, Exchange Services, Trading, Technical Analysis.
+# Content Plan Development & Realisation for corporate blogs on Crypto, PaaS, B2B, Media & Technology, P2E, Mining. 
+# Articles & Content for niche projects in Entertainment, FinTech, Exchange Services, Trading, Technical Analysis.
 ```
 
 ### Social Network Content Management
