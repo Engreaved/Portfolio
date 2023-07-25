@@ -1,36 +1,50 @@
 # Portfolio
-Portfolio Link: https://docs.google.com/document/d/1K1UNxn9OglrEzyQz5nw66FPdOR7fe2XHfTiNsOv7fY8/edit#heading=h.362grsxt8ujx
-My Portfolio in GitHub for SEO, Creative; Tech Copywriter.
+> My Portfolio for SEO, Creative; Tech & Crypto Copywriter. [Click to check my articles](https://docs.google.com/document/d/1K1UNxn9OglrEzyQz5nw66FPdOR7fe2XHfTiNsOv7fY8/edit#heading=h.362grsxt8ujx) 
 
-I offer the following services for any IT, Tech or Crypto-related product:
+**I offer the following services for any IT, Tech or Crypto-related product:**
 
-=[ Sales Copy ]=
-] Not gonna lie - I can make people buy, yet product qualities are a key factor too. 
-]:: I can't make people buy something that does not exist, in such cases we can create a product background for sales department and further marketing copy submissions.  
-]:: UI-Microcopy for your website or interface, ASO for your Google Play or App Store project, sales e-mails campaign set-up. 
+### Sales Copy
+**Not gonna lie - I can make people buy, yet product qualities are a key factor too.**
+```
+# I can't make people buy a thing which dosen't exist, so we can create one together during a brainstorming session. 
+# In such cases we can create a product background for sales department and further marketing copy submissions.  
+# UI-Microcopy for website or app interface, ASO for Google Play or App Store project.
+# E-mail Sales Campaign top-to-bottom: topic, text, visual design, analysis & adjustment.
+# Landing Page from ground-up: page structure, links, TOS, FIGMA testing.
+# Corporate Publicational Media Account Management: for Forklog, 4PDA, Forums & Publicational Websites.   
+```
 
-=[ Technical Documentation ]= 
-] For Sales, Developers, HR, Management, CEO's, BoD's. 
-]:: Can take care of corporate presentation design for financial reports, project pitch. 
-]:: Can create a diagramm of your project's architecture idea for developers to easilly implement in the future with use of DRAGON diagrammic language. 
+### Website Content Management
+**I'll write high-coverting copy for your niche product to engage with audience and stimulate sales.**
+```
+# Blog Management for Magento, WordPress, Typo3 -based corporate websites.  
+# Presentation of the company cases for the general public: from article to the platform submission under a week. 
+# Content-Plan development for corporate blogs about Crypto, PaaS, B2B, Media & Technology, Social & Niche Topics. 
+# Individual content plan development for niche projects in Entertainment, FinTech, Exchange Services, Trading, Technical Analysis.
+```
 
-=[ Social Network Content Management ]=
-] "Outsource creativity and take care of social network posting schedule."
-]:: I'll take care of engaging text for posts, stories, channels, or social media accounts. 
-]:: Discord, Facebook, Instagram, Twitter, Telegram account management, you only need to provide ocassional photos if it's personal brend. In else cases visuals are taken care of by me. 
-]:: Development of the Content Plan together, with your supervision to ensure every detail is accounted for. 
-]:: Memes-on-demand, actually. Takes time for Target Audience research, boosts sales and/or user engagement in all known niches. 
+### Social Network Content Management
+> "Outsource creativity and take care of social network posting schedule."
+```
+# I'll take care of engaging text for posts, stories, channels, or social media accounts. 
+# Discord, Facebook, Instagram, Twitter, Telegram account management.
+# You only need to provide ocassional photos if it's personal brand. Otherwise visuals are taken care of by me. 
+# Content Plan Development, under your supervision to ensure every detail is accounted for. 
+# Memes-on-demand, actually. Takes time for Target Audience research, boosts sales and/or user engagement in all known niches.
+```
 
-=[ Website Content Management ]=
-] I'll write high-coverting copy for your niche product to engage with audience and stimulate sales. 
-]:: SEO-oriented copy production for Magento, WordPress, Typo3 or any other publication platform. 
-]:: Presentation of the company cases for the general public in media, with full production cycle: from article to the platform submission in a day. 
-]:: Content-Plan development for corporate blogs on topics of Cryptocurrency, PaaS, B2B, Media & Technology, Social & Niche Science. 
-]:: Individual content plan development for niche projects with such key topics as Cryptoprocessing, FinTech, Exchange Services, Trading, Technical Analysis. 
+### Technical Documentation 
+**For Sales, Developers, HR, Management, CEO's, BoD's.**
+```
+# Can take care of corporate presentation design for financial reports, project pitch. 
+# Technical Structure Diagramm of project to develop it faster and with more time for bug revision & code optimisation.
+```
 
-=[ Marketing ]=
-] You need to gain some traction? 
-]:: Traffic Channel Research and Analysis: I'll measure the possible profitability of each channel and adjust your marketing campaign to ensure better conversion rate and lead generation. 
-]:: Target Audience Social Research & Analysis: I'll find where your does your target audience post about their own problems and build content campaigns for blogs and websites around them.
-]:: Viewership Farming Launch: I can devise you a plan to gain online traction trough web publications, article promotion, sales copy distribution, newsletter or e-mails.
-]:: Publication Services: I'll find what publication platform your project can benefit from, write an article, negotiate with publication manager and editorial team and ensure smooth operation for you. 
+### Marketing
+**You need to gain some traction?**
+```
+# Traffic Channel Research and Analysis: I'll launch a marketing campaign to ensure better conversion rate and lead generation. 
+# Target Audience Social Research: I'll what bothers your target audience and build Content Marketing around it.
+# Viewership Farming Launch: I'll help you to gain online traction trough web publications, article promotion, sales copy distribution.
+# Publication Services: I'll find what media can publish your articles and write high-converting copy to attract interest. 
+```
