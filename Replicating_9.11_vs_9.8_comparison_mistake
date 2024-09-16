@@ -1,0 +1,140 @@
+#This code was inspired by the mistake in comparison of 9.11 to 9.8 often done by neural networks. 
+#As a result, appears there's a case when this mistake can be replicated.  
+
+import math 
+
+a = 9,11 #Python will recognzie these as tuples at first. 
+b = 9,8
+
+print("-----------")
+print("Initial Values:")
+print({a})
+print({b})
+print("-----------")
+print("Comparing Values")
+print (f"{a} > {b}: {a > b}") #Here the code will return "TRUE", most correctly assuming that {a} and {b} are Tuples. 
+print (f"{a} < {b}: {a < b}")
+print (f"{a} == {b}: {a == b}")
+print (f"{a} != {b}: {a != b}")
+print (f"{a} >= {b}: {a >= b}") #With Tuples, 9 == 9 is first performed, then 11 > 8, both return "True", so you end up with broken comparison. 
+print (f"{a} <= {b}: {a <= b}") #Same case here. 
+print("-----------")
+print("Comparing Values as Stings") #Here every variable is forced to become a String or str() intentionally, breaking down from Tuple(). 
+print(f"{str(a)} > {str (b)}: {str(a) > str(b)}")
+print(f"{str(a)} < {str (b)}: {str(a) < str(b)}")
+print(f"{str(a)} == {str (b)}: {str(a) == str(b)}")
+print(f"{str(a)} != {str (b)}: {str(a) != str(b)}")
+print(f"{str(a)} >= {str (b)}: {str(a) >= str(b)}")
+print(f"{str(a)} <= {str (b)}: {str(a) <= str(b)}")
+print("-----------")
+print("Using new values, stored as Float()")
+d = float(9.11)
+c = float(9.8)
+
+print("-----------")
+print("Initial Values:")
+print({d})
+print({c})
+
+print("-----------")
+
+print("Comparing values as numbers")
+
+print (f"{d} > {c}: {d > c}")
+print (f"{d} < {c}: {d < c}")
+print (f"{d} == {c}: {d == c}")
+print (f"{d} != {c}: {d != c}")
+print (f"{d} >= {c}: {d >= c}")
+print (f"{d} <= {c}: {d <= c}")
+
+print("-----------")
+
+print("Comparing values as String or str()")
+print(f"{str(d)} > {str (c)}: {str(d) > str(c)}")
+print(f"{str(d)} < {str (c)}: {str(d) < str(c)}")
+print(f"{str(d)} == {str (c)}: {str(d) == str(c)}")
+print(f"{str(d)} != {str (c)}: {str(d) != str(c)}")
+print(f"{str(d)} >= {str (c)}: {str(d) >= str(c)}")
+print(f"{str(d)} <= {str (c)}: {str(d) <= str(c)}")
+
+print("-----------")
+
+print("Using new values, stored as wholegrain str()")
+print("-----------")
+e = str("9,11")
+f = str("9,8")
+
+print("Here are they:")
+print("-----------")
+print(f"{e}")
+print(f"{f}")
+print("-----------")
+print("Test Commence")
+print("-----------")
+print (f"{e} > {f}: {e > f}")
+print (f"{e} < {f}: {e < f}")
+print (f"{e} == {f}: {e == f}")
+print (f"{e} != {f}: {e != f}")
+print (f"{e} >= {f}: {e >= f}")
+print (f"{e} <= {f}: {e <= f}")
+print("-----------")
+
+print("Using new values, stored as wholegrain str()")
+
+j = str("9.11")
+k = str("9.8")
+
+print("-----------")
+print("Here are they:")
+print(f"{j}")
+print(f"{k}")
+print("-----------")
+print (f"{j} > {k}: {j > k}")
+print (f"{j} < {k}: {j < k}")
+print (f"{j} == {k}: {j == k}")
+print (f"{j} != {k}: {j != k}")
+print (f"{j} >= {k}: {j >= k}")
+print (f"{j} <= {k}: {j <= k}")
+print("-----------")
+
+import operator as o 
+
+print("Using Operator Library Comparison Method")
+print("-----------")
+print(f"{a} = {b}: {o.eq(a, b)}")
+print(f"{a} < {b}: {o.lt(a, b)}")
+print(f"{a} > {b}: {o.gt(a, b)}") #Since {a} and {b} are recognied as tuples initially, the lexicographical comparison is done insread of numerical. 
+print("-----------")
+print(f"{d} = {c}: {o.eq(d, c)}")
+print(f"{d} < {c}: {o.lt(d, c)}")
+print(f"{d} > {c}: {o.gt(d, c)}")
+print("-----------")
+print(f"{e} = {f}: {o.eq(e, f)}")
+print(f"{e} < {f}: {o.lt(e, f)}")
+print(f"{e} > {f}: {o.gt(e, f)}")
+print("-----------")
+print(f"{j} = {k}: {o.eq(j, k)}")
+print(f"{j} < {k}: {o.lt(j, k)}")
+print(f"{j} > {k}: {o.gt(j, k)}")
+print("-----------")
+
+import pandas as pd #This library was made by Wes McKinney in 2008 and is part of Python Data Analysis Toolset. 
+
+s1 = pd.Series(a) #I define values as Series, which may store from 1 to {n} data points in a single set. 
+s2 = pd.Series(b)
+s3 = pd.Series(d)
+s4 = pd.Series(c)
+s5 = pd.Series(e)
+s6 = pd.Series(f)
+s7 = pd.Series(j)
+s8 = pd.Series(k)
+
+print("Using Pandas Series Library Comparsion Method")
+print(f"{a} < {b}: {s1.lt(s2)}") #Here the code will return back "FALSE", because input is incorrectly recognized as String, not a Float. 
+print(f"{d} < {c}: {s3.lt(s4)}")
+print(f"{e} < {f}: {s5.lt(s6)}")
+print(f"{j} < {k}: {s7.lt(s8)}")
+print(f"{a} > {b}: {s1.gt(s2)}") #Code here does the same thing, but in reverse - tells "TRUE", because both values are compared lexicographically. 
+print(f"{d} > {c}: {s3.gt(s4)}")
+print(f"{e} > {f}: {s5.gt(s6)}")
+print(f"{j} > {k}: {s7.gt(s8)}")
